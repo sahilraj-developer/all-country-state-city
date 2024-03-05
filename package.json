@@ -1,7 +1,8 @@
 {
   "name": "all-country-state-city",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.1",
+  "description": "npm package to county state and city data for selectes",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +10,16 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "author": "Sahil raj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilraj-developer/all-country-state-city.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sahilraj-developer/all-country-state-city/issues"
+  },
+  "homepage": "https://github.com/sahilraj-developer/all-country-state-city#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
